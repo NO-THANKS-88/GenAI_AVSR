@@ -1,0 +1,11 @@
+# 大檔案與受授權限制的資料一律不進版控
+*.pt
+*.pth
+*.wav
+*.mp4
+*.tar
+*.jpg
+data/
+checkpoints/
+__pycache__/
+*.log

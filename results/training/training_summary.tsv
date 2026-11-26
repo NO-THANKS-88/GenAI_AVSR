@@ -1,0 +1,5 @@
+experiment	last_step	best_valid_step	best_valid_acc	valid_nll_at_best
+train_10h_A	18000	18000	66.90	2.963
+train_10h_AV	18000	18000	65.25	3.124
+train_30h_A	18000	18000	90.88	0.885
+train_30h_AV	18000	17284	89.20	0.979
